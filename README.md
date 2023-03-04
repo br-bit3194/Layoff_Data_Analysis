@@ -15,5 +15,5 @@ The data availability is from when COVID-19 was declared as a pandemic i.e. 11 M
 * Plotly-Dash
 * Pandas
 
-# Dashboard:
+# Dashboard: (Layoff Data from 2020-03-11 to 2023-02-07)
 ![Screenshot from 2023-03-04 22-50-55](https://user-images.githubusercontent.com/60137742/222921485-3957a596-2e87-4d60-840f-a024d4d9fb27.png)
